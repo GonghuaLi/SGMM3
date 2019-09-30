@@ -42,9 +42,7 @@ Expression type, this version of SGMM3 supports three expression data type:
   RSEM:  RNAseq, normalized by RSEM method  
 expressionType = 'FPKM';  
 
-If the model contains protein degradation reaction. In this case, burned muscle contains protein degradation:  
-degradation = 'yes';  
-But in most cases, you should set as  
+If the model contains protein degradation reaction. In most cases, we set as:  
 degradation = 'no';  
 
 number of threading used for FVA, only used when FastMM was installed  

@@ -331,6 +331,8 @@ end
 
 gimmeSolution = optimizeCbModel(model2gimme,'min');
 
+length(model2gimme.rxns(gimmeSolution.x >0))
+
 if (gimmeSolution.stat ~= 1)
 %%        gimme_not_solved=1;
 %        display('Failed to solve GIMME problem'); 

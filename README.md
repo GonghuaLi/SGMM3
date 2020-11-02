@@ -3,7 +3,7 @@ Semi-kinetic Genome-wide metaoblic modeling for Recon3D
 Gonghua Li. Ph.D  
 Email: ligonghua@mail.kiz.ac.cn  
 
-## NOTE: SGMM3 is now merged into GPMM toolbox, please use and cite GPMM(https://github.com/GonghuaLi/GPMM)
+## NOTE: SGMM3 was merged into GPMM toolbox(2020-10-01), please use and cite GPMM(https://github.com/GonghuaLi/GPMM)
 
 ## Part I: Required software and toolbox
 1). Install MATLAB. MATLAB is the software environment for engineers and scientists. You can get detailed installation information by visiting http://www.mathworks.com/products/matlab/  
